@@ -18,3 +18,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 ## License
+[&lt;MIT&gt;](http://example.com)
