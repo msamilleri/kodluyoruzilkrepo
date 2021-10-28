@@ -6,8 +6,8 @@ Bu repo Kodluyoruz Java Back-End Eğitiminde oluşturduğumuz ilk repo. İçeris
 
 a> https://github.com/msamilleri/kodluyoruzilkrepo.git
 
-##Usage
+## Usage
 
-##Contributing
+## Contributing
 
-##License
+## License
