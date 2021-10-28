@@ -9,7 +9,12 @@ Bu repo Kodluyoruz Java Back-End Eğitiminde oluşturduğumuz ilk repo. İçeris
 a> https://github.com/msamilleri/kodluyoruzilkrepo.git
 
 ## Usage
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+Linux için:
 
 ## Contributing
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
 
 ## License
