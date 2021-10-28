@@ -4,9 +4,9 @@ Bu repo Kodluyoruz Java Back-End Eğitiminde oluşturduğumuz ilk repo. İçeris
 ![Mshamil Logo](https://github.com/msamilleri/kodluyoruzilkrepo/blob/main/msahmil.png)
 
 ## Installation
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+: Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-{ https://github.com/msamilleri/kodluyoruzilkrepo.git}
+{ https://github.com/msamilleri/kodluyoruzilkrepo.git }
 
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
