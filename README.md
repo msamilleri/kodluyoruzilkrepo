@@ -18,4 +18,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 ## License
-[&lt;MIT&gt;](http://example.com)
+[MIT](https://github.com/msamilleri/kodluyoruzilkrepo/blob/main/LICENSE)
